@@ -8,5 +8,5 @@ Ini adalah program konversi mata uang yang menggunakan sistem API, untuk menggun
     - Buat akun
     - Verifikasi akun
     - Masuk ke dasboard
-    - Lalu pilih menu API key
+    - Lalu pilih menu API keys
     - Copy API lalu ganti API KEY di line 39 dengan API anda
